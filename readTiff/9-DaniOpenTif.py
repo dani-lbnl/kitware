@@ -24,7 +24,7 @@ interactor.SetInteractorStyle(style)
 
 
 reader = vtkTIFFReader()
-reader.SetFileName('example.tif')
+reader.SetFileName('mriBrain.tif')
 reader.Update()
 img = reader.GetOutput()
 

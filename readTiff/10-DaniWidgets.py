@@ -10,7 +10,7 @@ import os
 import vtk
 
 reader = vtk.vtkTIFFReader()
-reader.SetFileName('natalie.tif') #prefix doesn't work
+reader.SetFileName('mriBrain.tif') #prefix doesn't work
 reader.Update()
 #img = reader.GetOutput()
 
