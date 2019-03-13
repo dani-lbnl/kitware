@@ -2,6 +2,7 @@
 
 ## What
 - Diving in Kitware [software](https://github.com/KitwareMedical) stack
+- Learning where to find best (documentation](https://itk.org/Doxygen413/html/index.html)
 - Great fun with hands-on exercises using python
 - ITK in [python](https://itkpythonpackage.readthedocs.io/en/latest/Quick_start_guide.html#usage)
 - More resources about course: [here](https://data.kitware.com/#collection/568a9db98d777f429eac8eab/folder/5b0724188d777f15ebe1f55b)
