@@ -20,3 +20,5 @@
   python -m pip install --upgrade --pre itk itk-texturefeatures
   python -m pip install itkwidgets
 ```
+
+These notes are for personal [use](https://data.kitware.com/#collection/568a9db98d777f429eac8eab/folder/5b0724188d777f15ebe1f55b) and might contain mistakes
