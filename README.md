@@ -15,7 +15,8 @@
 - imgprocpipeline: use [itk](https://itk.org/Wiki/ITK/Examples) upcoming
 
 ## Setup
+```console
   conda install -c conda-forge jupyter matplotlib numpy scipy ipywidgets scikit-learn cookiecutter
   python -m pip install --upgrade --pre itk itk-texturefeatures
   python -m pip install itkwidgets
-
+```
